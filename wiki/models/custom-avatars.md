@@ -26,3 +26,5 @@ Avatars are not selected by default. Use Page Up / Page Down with the game in fo
 [Assistant's Avatar Guide](https://bs.assistant.moe/Avatars) is a good resource for learning how to make your own avatar.
 
 The guide includes a [short video narrated by Megalon](https://bs.assistant.moe/Avatars#Videos), however it is intended to be an overview and you should watch it in addition to reading the guide, not lieu of.
+
+Alternatively you can read [STsung's Avatar Guide](http://stefanekren.com/deckgen/vrmtoavatar.html) that describes the whole process in more detail. This guide also includes a [long video](https://www.youtube.com/watch?v=zeLw0cPqHe4) with commentary showing the whole process. 
